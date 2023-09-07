@@ -35,3 +35,30 @@ Link: https://docs.aws.amazon.com/AWSEC2/la...
 Command: aws ec2-instance-connect ssh --instance-id [your-instance-id]
 
  aws ec2-instance-connect ssh --instance-id i-06be27a2c88341351
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
